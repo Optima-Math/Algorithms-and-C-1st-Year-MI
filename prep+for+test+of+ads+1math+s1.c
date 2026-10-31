@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main()
 {
-    
+    float x;
     printf("GIVE any real number ");
     scanf("%f",&x);
     if(x>=0){
