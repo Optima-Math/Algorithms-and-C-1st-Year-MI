@@ -10,4 +10,6 @@ int main()
             x=(-1)*x;
             printf("%f",x);
         }
+        while (getchar() != '\n'); 
+    getchar();
 }
